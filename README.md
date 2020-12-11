@@ -3,8 +3,9 @@ In this project , I am developing a todo list using PHP that allows me to do ful
 All the data are stored in MySql database.
 # Insights :
  with this project you will learn all the basic operation that you neeed to know as a developers. 
- # Key Notes:
+ # Key Notes: 
+  the points I discussed here are:-
  # CURDS- Create, Update, Read, Delete.
- # PHP LANGUAGE 
- # MTSQL QUERIES AND FUNCTIONS
- # MYSQL DATABSE SETUP
+ # PHP Language
+ # MySQL QUERIES AND FUNCTIONS
+ # MySQL DATABSE SETUP
