@@ -8,4 +8,4 @@ All the data are stored in MySql database.
  # CURDS- Create, Update, Read, Delete.
  # PHP Language
  # MySQL QUERIES AND FUNCTIONS
- # MySQL DATABSE SETUP
+ # MySQL DATABASE SETUP
